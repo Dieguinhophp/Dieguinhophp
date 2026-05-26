@@ -5,9 +5,9 @@
 🚀 Always looking to learn new technologies and create projects that challenge me to grow as a developer.
 
 🌐 Contact
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Dieguinhophp)
-<!--LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-Email: your@email.com-->
+[Github](https://github.com/Dieguinhophp)
+[LinkedIn](www.linkedin.com/in/diego-eusebiosantos)
+Email: eusebio.santos2004@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,react)](https://skillicons.dev)
 <!--

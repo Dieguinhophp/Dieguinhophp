@@ -5,7 +5,7 @@
 🚀 Always looking to learn new technologies and create projects that challenge me to grow as a developer.
 
 🌐 Contact
-[GitHub:](https://skillicons.dev/icons?i=github)](https://github.com/Dieguinhophp)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Dieguinhophp)
 <!--LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
 Email: your@email.com-->
 

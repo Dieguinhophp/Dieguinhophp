@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello, I'm Diego Eusebio 👋
+
+🎓 Software development student passionate about technology, networking, and building applications.
+
+🚀 Always looking to learn new technologies and create projects that challenge me to grow as a developer.
+
+🌐 Contact
+[GitHub:](https://skillicons.dev/icons?i=github)](https://github.com/Dieguinhophp)
+<!--LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+Email: your@email.com-->
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,react)](https://skillicons.dev)
 <!--
 **Dieguinhophp/Dieguinhophp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,10 @@
-## Hello, I'm Diego Eusebio 👋
+# Hello, I'm Diego Eusebio 👋
 
 🎓 Software development student passionate about technology, networking, and building applications.
 
 🚀 Always looking to learn new technologies and create projects that challenge me to grow as a developer.
 
-# Contact 🌐
+## Contact 🌐
 [Github](https://github.com/Dieguinhophp)
 
 [LinkedIn](www.linkedin.com/in/diego-eusebiosantos)
